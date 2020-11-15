@@ -1,0 +1,30 @@
+
+.btn-modal-first{
+    color:#319036 !important; 
+    font-family: Roboto !important;
+    font-style: normal !important;
+    font-weight: bold !important;
+    font-size: 18px !important;
+    line-height: 21px !important;
+    
+}
+
+
+h1, h3,h4, p{
+    color: #fff;
+}
+
+p, h1, h2, h3, h4 {
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.btn-modal-second{
+    background: #E613D5 !important;
+}
+
+.btn-modal-second > span {
+    color:#fff;
+    font-weight: bold;
+
+}
